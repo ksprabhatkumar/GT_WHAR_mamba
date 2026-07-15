@@ -44,7 +44,7 @@ def run_experiment(dataset_name, device, resume_state=None):
     print(f"{'='*50}")
     
     config = get_dataset_config(dataset_name)
-    epochs = 40
+    epochs = 100
     
     start_subject = 1
     loso_acc, loso_f1 = [], []

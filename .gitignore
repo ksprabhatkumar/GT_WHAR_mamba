@@ -1,3 +1,6 @@
 /har_data/
 /dataset/processed/__pycache__/
+
 *.pyc
+dataset/processed/
+*.pt
