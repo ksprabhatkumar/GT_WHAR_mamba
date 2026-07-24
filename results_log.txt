@@ -46,3 +46,193 @@ no of epochs = 100
 [2026-07-15 08:57:08] Dataset: DSADS | Subject: 8 | Acc: 79.39% | F1: 76.63%
 [2026-07-15 08:57:08] >>> FINAL AVG FOR DSADS | Acc: 79.42% | F1: 76.88%
 
+[2026-07-21 22:42:40] Dataset: DSADS | Subj: 1 | Acc: 73.07% | F1: 69.27% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:43:14] Dataset: DSADS | Subj: 2 | Acc: 88.07% | F1: 86.58% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:43:48] Dataset: DSADS | Subj: 3 | Acc: 82.02% | F1: 81.13% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:44:23] Dataset: DSADS | Subj: 4 | Acc: 84.21% | F1: 82.14% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:44:57] Dataset: DSADS | Subj: 5 | Acc: 72.37% | F1: 69.05% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:45:32] Dataset: DSADS | Subj: 6 | Acc: 77.28% | F1: 73.71% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:46:07] Dataset: DSADS | Subj: 7 | Acc: 87.63% | F1: 87.49% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:46:42] Dataset: DSADS | Subj: 8 | Acc: 78.95% | F1: 76.34% | Params: Ep=10, BS=64, LR=0.001
+[2026-07-21 22:46:42] >>> FINAL AVG FOR DSADS | Acc: 80.45% | F1: 78.21%
+
+[2026-07-21 22:47:34] Dataset: DSADS | Subj: 1 | Acc: 71.75% | F1: 68.47% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:48:26] Dataset: DSADS | Subj: 2 | Acc: 88.86% | F1: 87.69% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:49:17] Dataset: DSADS | Subj: 3 | Acc: 77.81% | F1: 75.44% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:50:09] Dataset: DSADS | Subj: 4 | Acc: 84.12% | F1: 82.60% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:51:00] Dataset: DSADS | Subj: 5 | Acc: 73.25% | F1: 67.55% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:51:52] Dataset: DSADS | Subj: 6 | Acc: 78.25% | F1: 74.60% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:52:44] Dataset: DSADS | Subj: 7 | Acc: 84.12% | F1: 82.56% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:53:35] Dataset: DSADS | Subj: 8 | Acc: 77.72% | F1: 74.02% | Params: Ep=15, BS=64, LR=0.001
+[2026-07-21 22:53:35] >>> FINAL AVG FOR DSADS | Acc: 79.48% | F1: 76.62%
+
+[2026-07-21 22:54:44] Dataset: DSADS | Subj: 1 | Acc: 66.67% | F1: 60.65% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 22:55:53] Dataset: DSADS | Subj: 2 | Acc: 86.93% | F1: 85.69% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 22:57:03] Dataset: DSADS | Subj: 3 | Acc: 75.18% | F1: 74.19% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 22:58:12] Dataset: DSADS | Subj: 4 | Acc: 82.72% | F1: 81.35% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 22:59:23] Dataset: DSADS | Subj: 5 | Acc: 80.70% | F1: 78.24% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 23:00:32] Dataset: DSADS | Subj: 6 | Acc: 78.77% | F1: 75.20% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 23:01:41] Dataset: DSADS | Subj: 7 | Acc: 86.84% | F1: 85.82% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 23:02:51] Dataset: DSADS | Subj: 8 | Acc: 76.49% | F1: 72.84% | Params: Ep=20, BS=64, LR=0.001
+[2026-07-21 23:02:51] >>> FINAL AVG FOR DSADS | Acc: 79.29% | F1: 76.75%
+
+[2026-07-21 23:04:17] Dataset: DSADS | Subj: 1 | Acc: 74.39% | F1: 71.60% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:05:43] Dataset: DSADS | Subj: 2 | Acc: 85.88% | F1: 84.27% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:07:09] Dataset: DSADS | Subj: 3 | Acc: 79.39% | F1: 77.67% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:08:35] Dataset: DSADS | Subj: 4 | Acc: 79.91% | F1: 76.43% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:10:02] Dataset: DSADS | Subj: 5 | Acc: 72.72% | F1: 67.47% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:11:30] Dataset: DSADS | Subj: 6 | Acc: 78.25% | F1: 74.15% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:12:57] Dataset: DSADS | Subj: 7 | Acc: 86.93% | F1: 85.64% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:14:24] Dataset: DSADS | Subj: 8 | Acc: 77.28% | F1: 75.10% | Params: Ep=25, BS=64, LR=0.001
+[2026-07-21 23:14:24] >>> FINAL AVG FOR DSADS | Acc: 79.34% | F1: 76.54%
+
+[2026-07-21 23:16:08] Dataset: DSADS | Subj: 1 | Acc: 70.88% | F1: 66.96% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:17:52] Dataset: DSADS | Subj: 2 | Acc: 82.89% | F1: 80.32% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:19:36] Dataset: DSADS | Subj: 3 | Acc: 78.16% | F1: 76.70% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:21:18] Dataset: DSADS | Subj: 4 | Acc: 80.96% | F1: 77.71% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:23:00] Dataset: DSADS | Subj: 5 | Acc: 75.96% | F1: 72.64% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:24:43] Dataset: DSADS | Subj: 6 | Acc: 75.96% | F1: 72.37% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:26:25] Dataset: DSADS | Subj: 7 | Acc: 87.19% | F1: 86.50% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:28:07] Dataset: DSADS | Subj: 8 | Acc: 78.60% | F1: 75.40% | Params: Ep=30, BS=64, LR=0.001
+[2026-07-21 23:28:07] >>> FINAL AVG FOR DSADS | Acc: 78.83% | F1: 76.08%
+
+[2026-07-21 23:30:07] Dataset: DSADS | Subj: 1 | Acc: 74.82% | F1: 70.56% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:32:06] Dataset: DSADS | Subj: 2 | Acc: 87.19% | F1: 86.73% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:34:06] Dataset: DSADS | Subj: 3 | Acc: 86.14% | F1: 86.18% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:36:07] Dataset: DSADS | Subj: 4 | Acc: 80.18% | F1: 76.07% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:38:07] Dataset: DSADS | Subj: 5 | Acc: 75.26% | F1: 70.56% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:40:06] Dataset: DSADS | Subj: 6 | Acc: 81.75% | F1: 79.91% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:42:05] Dataset: DSADS | Subj: 7 | Acc: 86.14% | F1: 85.42% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:44:06] Dataset: DSADS | Subj: 8 | Acc: 77.89% | F1: 74.42% | Params: Ep=35, BS=64, LR=0.001
+[2026-07-21 23:44:06] >>> FINAL AVG FOR DSADS | Acc: 81.17% | F1: 78.73%
+
+[2026-07-21 23:46:23] Dataset: DSADS | Subj: 1 | Acc: 73.86% | F1: 70.01% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-21 23:48:41] Dataset: DSADS | Subj: 2 | Acc: 86.58% | F1: 85.66% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-21 23:50:58] Dataset: DSADS | Subj: 3 | Acc: 79.91% | F1: 80.37% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-21 23:53:14] Dataset: DSADS | Subj: 4 | Acc: 83.60% | F1: 81.74% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-21 23:55:31] Dataset: DSADS | Subj: 5 | Acc: 79.56% | F1: 76.16% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-21 23:57:49] Dataset: DSADS | Subj: 6 | Acc: 78.95% | F1: 74.94% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-22 00:00:09] Dataset: DSADS | Subj: 7 | Acc: 87.11% | F1: 86.64% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-22 00:02:29] Dataset: DSADS | Subj: 8 | Acc: 79.04% | F1: 76.71% | Params: Ep=40, BS=64, LR=0.001
+[2026-07-22 00:02:29] >>> FINAL AVG FOR DSADS | Acc: 81.07% | F1: 79.03%
+
+[2026-07-22 00:05:08] Dataset: DSADS | Subj: 1 | Acc: 73.95% | F1: 71.27% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:07:46] Dataset: DSADS | Subj: 2 | Acc: 89.30% | F1: 88.65% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:10:25] Dataset: DSADS | Subj: 3 | Acc: 81.14% | F1: 81.05% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:13:03] Dataset: DSADS | Subj: 4 | Acc: 80.70% | F1: 76.94% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:15:43] Dataset: DSADS | Subj: 5 | Acc: 75.79% | F1: 72.12% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:18:22] Dataset: DSADS | Subj: 6 | Acc: 77.46% | F1: 73.47% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:21:01] Dataset: DSADS | Subj: 7 | Acc: 85.00% | F1: 84.04% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:23:39] Dataset: DSADS | Subj: 8 | Acc: 79.39% | F1: 76.78% | Params: Ep=45, BS=64, LR=0.001
+[2026-07-22 00:23:39] >>> FINAL AVG FOR DSADS | Acc: 80.34% | F1: 78.04%
+
+[2026-07-22 00:26:34] Dataset: DSADS | Subj: 1 | Acc: 80.35% | F1: 77.94% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:29:31] Dataset: DSADS | Subj: 2 | Acc: 86.40% | F1: 85.40% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:32:28] Dataset: DSADS | Subj: 3 | Acc: 77.63% | F1: 75.61% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:35:24] Dataset: DSADS | Subj: 4 | Acc: 86.84% | F1: 86.85% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:38:21] Dataset: DSADS | Subj: 5 | Acc: 75.09% | F1: 70.76% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:41:18] Dataset: DSADS | Subj: 6 | Acc: 77.72% | F1: 73.79% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:44:14] Dataset: DSADS | Subj: 7 | Acc: 86.49% | F1: 85.88% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:47:10] Dataset: DSADS | Subj: 8 | Acc: 78.77% | F1: 75.85% | Params: Ep=50, BS=64, LR=0.001
+[2026-07-22 00:47:10] >>> FINAL AVG FOR DSADS | Acc: 81.16% | F1: 79.01%
+
+[2026-07-22 00:50:23] Dataset: DSADS | Subj: 1 | Acc: 76.75% | F1: 73.20% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 00:53:37] Dataset: DSADS | Subj: 2 | Acc: 88.33% | F1: 87.21% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 00:56:51] Dataset: DSADS | Subj: 3 | Acc: 81.14% | F1: 79.37% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 01:00:08] Dataset: DSADS | Subj: 4 | Acc: 82.98% | F1: 81.95% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 01:03:22] Dataset: DSADS | Subj: 5 | Acc: 80.18% | F1: 78.40% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 01:06:38] Dataset: DSADS | Subj: 6 | Acc: 78.51% | F1: 74.45% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 01:09:55] Dataset: DSADS | Subj: 7 | Acc: 87.37% | F1: 85.97% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 01:13:09] Dataset: DSADS | Subj: 8 | Acc: 77.54% | F1: 74.26% | Params: Ep=55, BS=64, LR=0.001
+[2026-07-22 01:13:09] >>> FINAL AVG FOR DSADS | Acc: 81.60% | F1: 79.35%
+
+[2026-07-22 01:16:42] Dataset: DSADS | Subj: 1 | Acc: 74.39% | F1: 70.16% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:20:14] Dataset: DSADS | Subj: 2 | Acc: 90.26% | F1: 89.84% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:23:46] Dataset: DSADS | Subj: 3 | Acc: 75.53% | F1: 72.25% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:27:17] Dataset: DSADS | Subj: 4 | Acc: 79.12% | F1: 76.13% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:30:49] Dataset: DSADS | Subj: 5 | Acc: 78.42% | F1: 73.66% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:34:22] Dataset: DSADS | Subj: 6 | Acc: 79.39% | F1: 76.09% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:37:54] Dataset: DSADS | Subj: 7 | Acc: 83.07% | F1: 80.97% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:41:27] Dataset: DSADS | Subj: 8 | Acc: 79.30% | F1: 76.65% | Params: Ep=60, BS=64, LR=0.001
+[2026-07-22 01:41:27] >>> FINAL AVG FOR DSADS | Acc: 79.93% | F1: 76.97%
+
+[2026-07-22 01:45:16] Dataset: DSADS | Subj: 1 | Acc: 73.95% | F1: 69.59% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 01:49:06] Dataset: DSADS | Subj: 2 | Acc: 88.25% | F1: 87.79% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 01:52:56] Dataset: DSADS | Subj: 3 | Acc: 80.70% | F1: 79.15% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 01:56:46] Dataset: DSADS | Subj: 4 | Acc: 79.39% | F1: 76.64% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 02:00:36] Dataset: DSADS | Subj: 5 | Acc: 81.14% | F1: 77.44% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 02:04:26] Dataset: DSADS | Subj: 6 | Acc: 80.53% | F1: 78.19% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 02:08:16] Dataset: DSADS | Subj: 7 | Acc: 87.89% | F1: 87.65% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 02:12:07] Dataset: DSADS | Subj: 8 | Acc: 78.07% | F1: 74.28% | Params: Ep=65, BS=64, LR=0.001
+[2026-07-22 02:12:07] >>> FINAL AVG FOR DSADS | Acc: 81.24% | F1: 78.84%
+
+[2026-07-22 02:16:15] Dataset: DSADS | Subj: 1 | Acc: 75.09% | F1: 72.48% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:20:20] Dataset: DSADS | Subj: 2 | Acc: 87.54% | F1: 86.50% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:24:26] Dataset: DSADS | Subj: 3 | Acc: 80.26% | F1: 78.44% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:28:32] Dataset: DSADS | Subj: 4 | Acc: 82.54% | F1: 80.14% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:32:40] Dataset: DSADS | Subj: 5 | Acc: 82.02% | F1: 79.64% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:36:47] Dataset: DSADS | Subj: 6 | Acc: 80.53% | F1: 77.64% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:40:55] Dataset: DSADS | Subj: 7 | Acc: 84.82% | F1: 84.36% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:45:01] Dataset: DSADS | Subj: 8 | Acc: 78.42% | F1: 75.50% | Params: Ep=70, BS=64, LR=0.001
+[2026-07-22 02:45:01] >>> FINAL AVG FOR DSADS | Acc: 81.40% | F1: 79.34%
+
+[2026-07-22 02:49:27] Dataset: DSADS | Subj: 1 | Acc: 72.89% | F1: 68.03% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 02:53:52] Dataset: DSADS | Subj: 2 | Acc: 88.33% | F1: 87.75% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 02:58:15] Dataset: DSADS | Subj: 3 | Acc: 78.33% | F1: 76.49% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 03:02:40] Dataset: DSADS | Subj: 4 | Acc: 80.61% | F1: 77.55% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 03:07:05] Dataset: DSADS | Subj: 5 | Acc: 79.21% | F1: 75.72% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 03:11:30] Dataset: DSADS | Subj: 6 | Acc: 79.39% | F1: 75.89% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 03:15:55] Dataset: DSADS | Subj: 7 | Acc: 82.63% | F1: 80.99% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 03:20:19] Dataset: DSADS | Subj: 8 | Acc: 77.81% | F1: 74.22% | Params: Ep=75, BS=64, LR=0.001
+[2026-07-22 03:20:19] >>> FINAL AVG FOR DSADS | Acc: 79.90% | F1: 77.08%
+
+[2026-07-22 03:24:59] Dataset: DSADS | Subj: 1 | Acc: 71.58% | F1: 67.40% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:29:42] Dataset: DSADS | Subj: 2 | Acc: 90.00% | F1: 89.35% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:34:25] Dataset: DSADS | Subj: 3 | Acc: 75.79% | F1: 73.55% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:39:05] Dataset: DSADS | Subj: 4 | Acc: 76.84% | F1: 73.12% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:43:48] Dataset: DSADS | Subj: 5 | Acc: 82.28% | F1: 79.40% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:48:30] Dataset: DSADS | Subj: 6 | Acc: 79.56% | F1: 76.07% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:53:14] Dataset: DSADS | Subj: 7 | Acc: 87.98% | F1: 86.77% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:57:56] Dataset: DSADS | Subj: 8 | Acc: 77.28% | F1: 73.48% | Params: Ep=80, BS=64, LR=0.001
+[2026-07-22 03:57:56] >>> FINAL AVG FOR DSADS | Acc: 80.16% | F1: 77.39%
+
+[2026-07-22 04:02:57] Dataset: DSADS | Subj: 1 | Acc: 70.70% | F1: 66.54% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:08:00] Dataset: DSADS | Subj: 2 | Acc: 88.86% | F1: 88.43% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:13:01] Dataset: DSADS | Subj: 3 | Acc: 82.72% | F1: 82.49% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:18:00] Dataset: DSADS | Subj: 4 | Acc: 80.18% | F1: 78.21% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:23:02] Dataset: DSADS | Subj: 5 | Acc: 74.56% | F1: 70.15% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:28:02] Dataset: DSADS | Subj: 6 | Acc: 81.32% | F1: 79.46% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:33:02] Dataset: DSADS | Subj: 7 | Acc: 85.96% | F1: 85.88% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:38:05] Dataset: DSADS | Subj: 8 | Acc: 77.98% | F1: 74.34% | Params: Ep=85, BS=64, LR=0.001
+[2026-07-22 04:38:05] >>> FINAL AVG FOR DSADS | Acc: 80.29% | F1: 78.19%
+
+[2026-07-22 04:43:21] Dataset: DSADS | Subj: 1 | Acc: 72.54% | F1: 69.51% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 04:48:42] Dataset: DSADS | Subj: 2 | Acc: 87.89% | F1: 87.02% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 04:53:58] Dataset: DSADS | Subj: 3 | Acc: 75.35% | F1: 73.05% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 04:59:14] Dataset: DSADS | Subj: 4 | Acc: 80.44% | F1: 77.45% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 05:04:34] Dataset: DSADS | Subj: 5 | Acc: 75.61% | F1: 71.66% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 05:09:52] Dataset: DSADS | Subj: 6 | Acc: 79.30% | F1: 75.90% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 05:15:11] Dataset: DSADS | Subj: 7 | Acc: 87.02% | F1: 85.96% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 05:20:28] Dataset: DSADS | Subj: 8 | Acc: 78.86% | F1: 76.11% | Params: Ep=90, BS=64, LR=0.001
+[2026-07-22 05:20:28] >>> FINAL AVG FOR DSADS | Acc: 79.63% | F1: 77.08%
+
+[2026-07-22 05:26:04] Dataset: DSADS | Subj: 1 | Acc: 72.72% | F1: 69.03% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 05:31:39] Dataset: DSADS | Subj: 2 | Acc: 86.93% | F1: 86.18% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 05:37:13] Dataset: DSADS | Subj: 3 | Acc: 80.53% | F1: 78.80% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 05:42:51] Dataset: DSADS | Subj: 4 | Acc: 81.93% | F1: 80.88% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 05:48:28] Dataset: DSADS | Subj: 5 | Acc: 78.42% | F1: 74.78% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 05:54:05] Dataset: DSADS | Subj: 6 | Acc: 78.25% | F1: 73.86% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 05:59:39] Dataset: DSADS | Subj: 7 | Acc: 89.91% | F1: 89.28% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 06:05:19] Dataset: DSADS | Subj: 8 | Acc: 76.75% | F1: 73.36% | Params: Ep=95, BS=64, LR=0.001
+[2026-07-22 06:05:19] >>> FINAL AVG FOR DSADS | Acc: 80.68% | F1: 78.27%
+
+[2026-07-22 06:11:10] Dataset: DSADS | Subj: 1 | Acc: 72.89% | F1: 68.92% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:17:03] Dataset: DSADS | Subj: 2 | Acc: 83.77% | F1: 81.07% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:22:57] Dataset: DSADS | Subj: 3 | Acc: 83.16% | F1: 82.46% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:28:50] Dataset: DSADS | Subj: 4 | Acc: 80.09% | F1: 78.05% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:34:42] Dataset: DSADS | Subj: 5 | Acc: 78.95% | F1: 75.80% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:40:36] Dataset: DSADS | Subj: 6 | Acc: 82.98% | F1: 80.82% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:46:30] Dataset: DSADS | Subj: 7 | Acc: 87.28% | F1: 86.67% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:52:23] Dataset: DSADS | Subj: 8 | Acc: 77.89% | F1: 74.51% | Params: Ep=100, BS=64, LR=0.001
+[2026-07-22 06:52:23] >>> FINAL AVG FOR DSADS | Acc: 80.88% | F1: 78.54%
+

@@ -1,0 +1,5 @@
+{
+    "model_name": "Mamba-WHAR (Proposed)",
+    "parameters": 1038229,
+    "latency_ms": 11.454935302734375
+}
